@@ -1,0 +1,211 @@
+[{
+  "_id": {
+    "$oid": "5fc3205fba97793028a19fd7"
+  },
+  "username": "howard",
+  "nums": 0,
+  "book": {
+    "$oid": "5fa84061d98aca10348c44c6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc3dc89e51f5c2cbc1ef885"
+  },
+  "username": "howard",
+  "nums": 6,
+  "book": {
+    "$oid": "5fc2d4acfd2ff344a424cd7f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc3e349e51f5c2cbc1ef889"
+  },
+  "username": "howard",
+  "nums": 0,
+  "book": {
+    "$oid": "5fc2b4ccbf09383464c12908"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc3e350e51f5c2cbc1ef88a"
+  },
+  "username": "howard",
+  "nums": 0,
+  "book": {
+    "$oid": "5fc1e6b6267cb72764e68dbb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc3e35ae51f5c2cbc1ef88b"
+  },
+  "username": "howard",
+  "nums": 0,
+  "book": {
+    "$oid": "5fa75f10d98aca10348c44c5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc402c44854d34cec84e8f1"
+  },
+  "username": "howard",
+  "nums": 0,
+  "book": {
+    "$oid": "5fa75eaad98aca10348c44c4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc4034b4854d34cec84e8f2"
+  },
+  "username": "howard1",
+  "nums": 0,
+  "book": {
+    "$oid": "5fa84061d98aca10348c44c6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc408780faecd1294cde3e4"
+  },
+  "username": "howard",
+  "nums": 0,
+  "book": {
+    "$oid": "5fc3f1de4069253ca00a2074"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc46198f26b9922647f83b2"
+  },
+  "username": "howard1",
+  "nums": 0,
+  "book": {
+    "$oid": "5fc1e6b6267cb72764e68dbb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc4619ef26b9922647f83b3"
+  },
+  "username": "howard1",
+  "nums": 0,
+  "book": {
+    "$oid": "5fa75eaad98aca10348c44c4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc46244f26b9922647f83b7"
+  },
+  "username": "howard1",
+  "nums": 0,
+  "book": {
+    "$oid": "5fc2d4acfd2ff344a424cd7f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc46264f26b9922647f83b9"
+  },
+  "username": "howard1",
+  "nums": 0,
+  "book": {
+    "$oid": "5fc3f1de4069253ca00a2074"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc91ef0982f8b4cd87e8a17"
+  },
+  "username": "ethan",
+  "nums": 0,
+  "book": {
+    "$oid": "5fa75eaad98aca10348c44c4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc92539982f8b4cd87e8a19"
+  },
+  "username": "ethan",
+  "nums": 0,
+  "book": {
+    "$oid": "5fa75f10d98aca10348c44c5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc92a6c982f8b4cd87e8a1b"
+  },
+  "username": "ethan",
+  "nums": 0,
+  "book": {
+    "$oid": "5fc3f1de4069253ca00a2074"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc93e34705132522c4df5a4"
+  },
+  "username": "ethan",
+  "nums": 0,
+  "book": {
+    "$oid": "5fc2d4acfd2ff344a424cd7f"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc9816fa6b6c9161cb40259"
+  },
+  "username": "jxd",
+  "nums": 0,
+  "book": {
+    "$oid": "5fa75f10d98aca10348c44c5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc9b05a403510447cefbc97"
+  },
+  "username": "jxd",
+  "nums": 0,
+  "book": {
+    "$oid": "5fc9853d5dc67a466c38d77c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fca8d5394c96f30509dc9e2"
+  },
+  "username": "jxd",
+  "nums": 0,
+  "book": {
+    "$oid": "5fa75eaad98aca10348c44c4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fca8d5794c96f30509dc9e3"
+  },
+  "username": "jxd",
+  "nums": 2,
+  "book": {
+    "$oid": "5fc984fa5dc67a466c38d77b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcaa8e294c96f30509dc9e5"
+  },
+  "username": "jxd",
+  "nums": 0,
+  "book": {
+    "$oid": "5fc9856c5dc67a466c38d77d"
+  },
+  "__v": 0
+}]

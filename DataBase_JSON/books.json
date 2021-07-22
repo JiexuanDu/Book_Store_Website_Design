@@ -1,0 +1,155 @@
+[{
+  "_id": {
+    "$oid": "5fa75eaad98aca10348c44c4"
+  },
+  "title": "coco",
+  "genre": "education",
+  "image": "picture-1606675340247.jpg",
+  "price": 100,
+  "description": "Coco is a 2017 American computer-animated fantasy film produced by Pixar Animation Studios and released by Walt Disney Pictures. Based on an original idea by Lee Unkrich, it is directed by him and co-directed by Adrian Molina.",
+  "__v": 0,
+  "inventory": 654
+},{
+  "_id": {
+    "$oid": "5fa75f10d98aca10348c44c5"
+  },
+  "title": "Harry potter 2",
+  "genre": "novel",
+  "image": "picture-1606604666004.jpg",
+  "price": 220,
+  "description": "Harry Potter and the Chamber of Secrets is a 2002 fantasy film directed by Chris Columbus and distributed by Warner Bros. Pictures, based on J. K. Rowling's 1998 novel of the same name.\n",
+  "__v": 0,
+  "inventory": 663
+},{
+  "_id": {
+    "$oid": "5fa84061d98aca10348c44c6"
+  },
+  "title": "Harry potter",
+  "genre": "novel",
+  "image": "picture-1606604617389.jpg",
+  "price": 222,
+  "description": "Harry Potter and the Philosopher's Stone (released in the United States and India as Harry Potter and the Sorcerer's Stone) is a 2001 fantasy film directed by Chris Columbus and distributed by Warner Bros. Pictures, based on J. K. Rowling's 1997 novel of the same name.\n",
+  "__v": 0,
+  "inventory": 663
+},{
+  "_id": {
+    "$oid": "5fc1e6b6267cb72764e68dbb"
+  },
+  "title": "Harry potter 3",
+  "genre": "novel",
+  "image": "picture-1606677171996.jpg",
+  "price": 300,
+  "description": "Harry Potter and the Prisoner of Azkaban is a 2004 fantasy film directed by Alfonso Cuarón and distributed by Warner Bros. Pictures, based on J. K. Rowling's 1999 novel of the same name.\n",
+  "__v": 0,
+  "inventory": 659
+},{
+  "_id": {
+    "$oid": "5fc2b4ccbf09383464c12908"
+  },
+  "title": "coco1",
+  "genre": "literature",
+  "description": "2221",
+  "price": 100,
+  "image": "picture-1606595788927.jpg",
+  "__v": 0,
+  "inventory": -1
+},{
+  "_id": {
+    "$oid": "5fc2d4acfd2ff344a424cd7f"
+  },
+  "title": "Lord",
+  "genre": "literature",
+  "description": "The Lord of the Rings is a film series of three epic fantasy adventure films directed by Peter Jackson, based on the novel written by J. R. R. Tolkien. The films are subtitled The Fellowship of the Ring (2001), The Two Towers (2002), and The Return of the King (2003). Produced and distributed by New Line Cinema with the co-production of WingNut Films, it is an international venture between New Zealand and the United States. The films feature an ensemble cast including Elijah Wood, Ian McKellen, Liv Tyler, Viggo Mortensen, Sean Astin, Cate Blanchett, John Rhys-Davies, Christopher Lee, Billy Boyd, Dominic Monaghan, Orlando Bloom, Hugo Weaving, Andy Serkis, and Sean Bean.",
+  "price": 300,
+  "image": "picture-1606603940908.jpg",
+  "__v": 0,
+  "inventory": 652
+},{
+  "_id": {
+    "$oid": "5fc3f1de4069253ca00a2074"
+  },
+  "title": "apollo",
+  "genre": "education",
+  "inventory": 644,
+  "price": 110,
+  "description": "Apollo 13 was the seventh crewed mission in the Apollo space program and the third meant to land on the Moon. The craft was launched from Kennedy Space Center on April 11, 1970, but the lunar landing was aborted after an oxygen tank in the service module (SM) failed two days into the mission. The crew instead looped around the Moon, and returned safely to Earth on April 17. The mission was commanded by Jim Lovell with Jack Swigert as command module (CM) pilot and Fred Haise as lunar module (LM) pilot. Swigert was a late replacement for Ken Mattingly, who was grounded after exposure to rubella.\n\n",
+  "image": "picture-1606676946973.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc983c9c2182b3ff887f146"
+  },
+  "title": "test",
+  "genre": "education",
+  "inventory": -1,
+  "price": 11111,
+  "description": "1111",
+  "image": "picture-1607041992998.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc984715dc67a466c38d779"
+  },
+  "title": "Modern Artifacts",
+  "genre": "art",
+  "inventory": 667,
+  "price": 45.25,
+  "description": "Modern Artifacts features all 18 installments of the eponymous series that appeared in issues of Esopus—several of which are sold out—from 2006 to 2019. The “Modern Artifacts” series featured items reproduced in facsimile from MoMA’s extraordinary collection—ranging from documentation related to never-before-realized exhibitions to pages from the Museum’s first guest book—curated and introduced by MoMA’s Chief of Archives, Library, and Research Collections Michelle Elligott.",
+  "image": "picture-1607051809469.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc984c15dc67a466c38d77a"
+  },
+  "title": "Educated",
+  "genre": "education",
+  "inventory": 667,
+  "price": 20.2,
+  "description": "Born to survivalists in the mountains of Idaho, Tara Westover was seventeen the first time she set foot in a classroom. Her family was so isolated from mainstream society that there was no one to ensure the children received an education, and no one to intervene when one of Tara’s older brothers became violent. When another brother got himself into college, Tara decided to try a new kind of life. Her quest for knowledge transformed her, taking her over oceans and across continents, to Harvard and to Cambridge University. Only then would she wonder if she’d traveled too far, if there was still a way home.",
+  "image": "picture-1607051827614.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc984fa5dc67a466c38d77b"
+  },
+  "title": "Shakespeare Poems",
+  "genre": "literature",
+  "inventory": 7,
+  "price": 30.99,
+  "description": "The Everyman's Library Pocket Poets hardcover series is popular for its compact size and reasonable price which does not compromise content. Poems: Shakespeare contains selections from Shakespeare's work, including his sonnets, his narrative poems Venus and Adonis and The Rape of Lucrece, songs and speeches, and an index of first lines.",
+  "image": "picture-1607051854326.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc9853d5dc67a466c38d77c"
+  },
+  "title": "The Great Gatsby",
+  "genre": "novel",
+  "inventory": 665,
+  "price": 14.72,
+  "description": "James Dickey Now we have an American masterpiece in its final form: the original crystal has shaped itself into the true diamond. This is the novel as Fitzgerald wished it to be, and so it is what we have dreamed of, sleeping and waking",
+  "image": "picture-1607051870682.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc9856c5dc67a466c38d77d"
+  },
+  "title": "A Brief History Of Time",
+  "genre": "science",
+  "inventory": 667,
+  "price": 95,
+  "description": "In the years since its publication in 1988, Stephen Hawking's A Brief History Of Time has established itself as a landmark volume in scientific writing.  It has become an international publishing phenomenon, translated into forty languages and selling over nine million copies.  The book was on the cutting edge of what was then known about the nature of the universe, but since that time there have been extraordinary advances in the technology of macrocosmic worlds.  These observations have confirmed many of Professor Hawkin's theoretical predictions in the first edition of his book, including the recent discoveries of the Cosmic Background Explorer satellite (COBE), which probed back in time to within 300,000 years of the fabric of space-time that he had projected.",
+  "image": "picture-1607051882715.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc99d64c2a3384924291fd4"
+  },
+  "title": "Modern Artifacts",
+  "genre": "art",
+  "inventory": -1,
+  "price": 45.25,
+  "description": "undefined",
+  "image": "picture-1607048548921.jpg",
+  "__v": 0
+}]

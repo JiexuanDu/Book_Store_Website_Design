@@ -1,0 +1,222 @@
+[{
+  "_id": {
+    "$oid": "5fc41b14eebe0c4dc490b3f0"
+  },
+  "username": "howard",
+  "nums": 3,
+  "book": {
+    "$oid": "5fc1e6b6267cb72764e68dbb"
+  },
+  "date": {
+    "$date": "2020-11-29T22:05:08.677Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc41b14eebe0c4dc490b3f1"
+  },
+  "username": "howard",
+  "nums": 3,
+  "book": {
+    "$oid": "5fc3f1de4069253ca00a2074"
+  },
+  "date": {
+    "$date": "2020-11-29T22:05:08.677Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc41d8caaf7604c3c4cd4b0"
+  },
+  "username": "howard",
+  "nums": 3,
+  "book": {
+    "$oid": "5fc2b4ccbf09383464c12908"
+  },
+  "date": {
+    "$date": "2020-11-29T22:15:40.860Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc41d8caaf7604c3c4cd4b1"
+  },
+  "username": "howard",
+  "nums": 3,
+  "book": {
+    "$oid": "5fc3f1de4069253ca00a2074"
+  },
+  "date": {
+    "$date": "2020-11-29T22:15:40.860Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc461ebf26b9922647f83b4"
+  },
+  "username": "howard1",
+  "nums": 3,
+  "book": {
+    "$oid": "5fa84061d98aca10348c44c6"
+  },
+  "date": {
+    "$date": "2020-11-30T03:07:23.479Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc461ebf26b9922647f83b5"
+  },
+  "username": "howard1",
+  "nums": 4,
+  "book": {
+    "$oid": "5fc1e6b6267cb72764e68dbb"
+  },
+  "date": {
+    "$date": "2020-11-30T03:07:23.479Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc461ebf26b9922647f83b6"
+  },
+  "username": "howard1",
+  "nums": 2,
+  "book": {
+    "$oid": "5fa75eaad98aca10348c44c4"
+  },
+  "date": {
+    "$date": "2020-11-30T03:07:23.479Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc46248f26b9922647f83b8"
+  },
+  "username": "howard1",
+  "nums": 3,
+  "book": {
+    "$oid": "5fc2d4acfd2ff344a424cd7f"
+  },
+  "date": {
+    "$date": "2020-11-30T03:08:56.786Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc46267f26b9922647f83ba"
+  },
+  "username": "howard1",
+  "nums": 3,
+  "book": {
+    "$oid": "5fc3f1de4069253ca00a2074"
+  },
+  "date": {
+    "$date": "2020-11-30T03:09:27.897Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc5d876470e1c4ef862eaf4"
+  },
+  "username": "howard",
+  "nums": 6,
+  "book": {
+    "$oid": "5fa75eaad98aca10348c44c4"
+  },
+  "date": {
+    "$date": "2020-12-01T05:45:26.865Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc91ef8982f8b4cd87e8a18"
+  },
+  "username": "ethan",
+  "nums": 1,
+  "book": {
+    "$oid": "5fa75eaad98aca10348c44c4"
+  },
+  "date": {
+    "$date": "2020-12-03T17:23:04.383Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc929ae982f8b4cd87e8a1a"
+  },
+  "username": "ethan",
+  "nums": 2,
+  "book": {
+    "$oid": "5fa75f10d98aca10348c44c5"
+  },
+  "date": {
+    "$date": "2020-12-03T18:08:46.022Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc92a7b982f8b4cd87e8a1c"
+  },
+  "username": "ethan",
+  "nums": 3,
+  "book": {
+    "$oid": "5fc3f1de4069253ca00a2074"
+  },
+  "date": {
+    "$date": "2020-12-03T18:12:11.603Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc93e47705132522c4df5a5"
+  },
+  "username": "ethan",
+  "nums": 3,
+  "book": {
+    "$oid": "5fa75eaad98aca10348c44c4"
+  },
+  "date": {
+    "$date": "2020-12-03T19:36:39.182Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc93e47705132522c4df5a6"
+  },
+  "username": "ethan",
+  "nums": 3,
+  "book": {
+    "$oid": "5fc2d4acfd2ff344a424cd7f"
+  },
+  "date": {
+    "$date": "2020-12-03T19:36:39.182Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc9817ba6b6c9161cb4025a"
+  },
+  "username": "jxd",
+  "nums": 1,
+  "book": {
+    "$oid": "5fa75f10d98aca10348c44c5"
+  },
+  "date": {
+    "$date": "2020-12-04T00:23:23.461Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc9b066403510447cefbc98"
+  },
+  "username": "jxd",
+  "nums": 2,
+  "book": {
+    "$oid": "5fc9853d5dc67a466c38d77c"
+  },
+  "date": {
+    "$date": "2020-12-04T03:43:34.792Z"
+  },
+  "__v": 0
+}]
